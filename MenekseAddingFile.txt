@@ -1,1 +1,5 @@
 Adding a file in Group9
+
+// Menekse, I really like your logic while solving the problem.
+// Can you reverse this String please: " !ih eskeneM "
+// Akbarmirzo

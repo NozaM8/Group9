@@ -7,7 +7,7 @@ public class SuperGirl {
         System.out.println("Hey!!! I am a Super Girl!");
 
 
-
+        System.out.println("We know you are a Super Girl! 🥳 "); // Akbarmirzo
 
 
 
