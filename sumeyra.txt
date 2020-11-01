@@ -1,1 +1,8 @@
 
+// Abla, can you find the unique elements from an ArrayList please?
+// ArrayList<Integer> numbers = new ArrayList<>();
+// numbers.add(77);
+// numbers.add(21);
+// numbers.add(77);
+// numbers.add(22);
+// Akbarmirzo
